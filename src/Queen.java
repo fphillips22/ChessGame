@@ -5,6 +5,6 @@ public class Queen extends Piece{
     }
     @Override
     public boolean moveValid(Board board, Spot start, Spot end) {
-        return false;
+        return true;
     }
 }
