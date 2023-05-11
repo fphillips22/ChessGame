@@ -1,6 +1,6 @@
 public class Knight extends Piece{
     public Knight(boolean b) {
-        super();
+        super(b);
     }
 
     @Override

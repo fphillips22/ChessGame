@@ -1,6 +1,6 @@
 public class Rook extends Piece{
     public Rook(boolean b) {
-        super();
+        super(b);
     }
 
     @Override
