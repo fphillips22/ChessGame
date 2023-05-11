@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c52a289-4441-4d95-a096-d963884d5df4" name="Changes" comment="">
+    <list default="true" id="9c52a289-4441-4d95-a096-d963884d5df4" name="Changes" comment="knight, pawn, queen, and maybe rook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Knight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pawn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +58,23 @@
       <option name="presentableId" value="Default" />
       <updated>1683765101160</updated>
       <workItem from="1683765102220" duration="6334000" />
-      <workItem from="1683828120320" duration="4195000" />
+      <workItem from="1683828120320" duration="6056000" />
     </task>
+    <task id="LOCAL-00001" summary="knight, pawn, queen, and maybe rook">
+      <created>1683832567979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683832567979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="knight, pawn, queen, and maybe rook" />
+    <option name="LAST_COMMIT_MESSAGE" value="knight, pawn, queen, and maybe rook" />
   </component>
 </project>

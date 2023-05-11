@@ -10,6 +10,6 @@ public class Pawn extends Piece {
         }
         int x = Math.abs(start.getX() - end.getX());
         int y = Math.abs(start.getY() - end.getY());
-        return x + y == 2;
+        return y == 1 && x == 0;
     }
 }
